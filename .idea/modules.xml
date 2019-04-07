@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exception.iml" filepath="$PROJECT_DIR$/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPL/IPL.iml" filepath="$PROJECT_DIR$/IPL/IPL.iml" />
+    </modules>
+  </component>
+</project>
