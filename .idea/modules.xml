@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception.iml" filepath="$PROJECT_DIR$/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/IPL/IPL.iml" filepath="$PROJECT_DIR$/IPL/IPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoterId/VoterId.iml" filepath="$PROJECT_DIR$/VoterId/VoterId.iml" />
     </modules>
   </component>
 </project>
