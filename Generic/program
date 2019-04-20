@@ -1,0 +1,8 @@
+1  wap to to define a customize a exception invalid string exception  such that it display message when message is printed.
+   create a class test string which read the string at run time and if the string is heaving less than 6 character then
+   through the invalid
+   exception and display the message in catch block.
+2
+  wap to create two array list containing "george " " JIM" " john" " blake" "Kevin" and last is  "Michel".
+  the containt of second array list is  "george" "ketty" "Kevin" "michel" "miyan".
+  find the uniun,diffrence and intersaction by using appropriate methode of array list class.
