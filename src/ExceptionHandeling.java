@@ -7,11 +7,10 @@ public class ExceptionHandeling {
             System.out.println(z);
         }
         catch (ArithmeticException e){
-            System.out.println("" +
-                    "Divison is not possible because you are inserting denominator as ZERO");
+           System.out.println("You cannot divide any number by zero!!!");
         }
         finally {
-            System.out.println("File closed");
+            System.out.println("File closed!!!");
         }
 
     }
