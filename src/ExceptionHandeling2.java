@@ -4,18 +4,17 @@ public class ExceptionHandeling2 {
         int b=30;
         int a1[]=new int[5];
         try{
-            int z=a/b;
-            a1[6]=50;
+            int z = a/b;
+            a1[6] = 50;
         }
-        catch (ArithmeticException e1){
-            System.out.println(
-                    "0000"
-            );
+        catch (IndexOutOfBoundsException e){
+            System.out.println("You try to access the element of array of index greater than length of array.");
         }
         catch (Exception e){
-            System.out.println("Devided by 0");
+            System.out.println("Something went wrong!!!");
+        }finally {
+            System.out.println("Execution completed.");
         }
-
     }
 
 }
